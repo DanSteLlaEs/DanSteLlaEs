@@ -9,7 +9,7 @@
 <br>
 <br>
 ⚡ Soy Daniel Llanos,  Java backend developer <br>
-🧪 Actualmente trabajo para una empresa de Desarrollador Backend Java Junior <br>
+🧪 Soy Desarrollador Java<br>
 💻 Estoy buscando colaborar en proyectos en java con spring para mejorar mis habilidades <br>
 💬 Me puedes escribir a mis redes!
 
